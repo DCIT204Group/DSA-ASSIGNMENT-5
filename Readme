@@ -1,0 +1,36 @@
+# Divide and Conquer & Greedy Algorithms Implementation
+
+This project implements various divide-and-conquer and greedy algorithms in Java.
+
+Compilation Instructions:
+
+1. Ensure you have Java Development Kit (JDK) installed on your system.
+2. Open a terminal/command prompt and navigate to the project directory.
+3. Compile all Java files using the command:
+   javac *.java
+
+Running the Application:
+
+1. After compilation, run the main class using:
+   java AlgorithmTester
+
+2. Follow the on-screen prompts to select an algorithm and input data.
+
+Dependencies:
+This project has no external dependencies and uses only standard Java libraries.
+
+File Structure:
+
+- AlgorithmTester.java: Main class with user interface
+- ClosestPair.java: Closest Pair of Points algorithm
+- DijkstraShortestPath.java: Dijkstra's Shortest Path algorithm
+- HuffmanCodes.java: Huffman Coding algorithm
+- KruskalMST.java: Kruskal's Minimum Spanning Tree algorithm
+- MergeSort.java: Merge Sort algorithm
+- PrimMST.java: Prim's Minimum Spanning Tree algorithm
+- Quickhull.java: Quickhull algorithm for Convex Hull
+- QuickSort.java: Quick Sort algorithm
+- StrassenMatrixMultiplication.java: Strassen's Matrix Multiplication algorithm
+- TSPApprox.java: Traveling Salesman Problem (Approximate) algorithm
+
+Note: Ensure all files are in the same directory before compiling and running.
